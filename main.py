@@ -1,3 +1,3 @@
 # Student name
 # Current date
-# Slicing Python Lists
+# Slicing Python Lists & Strings
